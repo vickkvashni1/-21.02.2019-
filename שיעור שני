@@ -1,0 +1,8 @@
+var x= prompt("please enter first number", 0)
+var y= prompt("please enter first number", 0)
+if
+  
+(x >= y)
+console.lod (x)
+else  
+    console.log(y)
